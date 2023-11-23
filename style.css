@@ -12,7 +12,6 @@ div {
     margin-top: -40px;
     margin-bottom: -20px;
     height: 300px;
-
     font-size: xx-large;
 }
 
@@ -40,4 +39,8 @@ div {
     display: inline-block;
     font-size: 16px;
     cursor: pointer;
+}
+
+.ButtonTopBar:active {
+    background-color: cyan;
 }
